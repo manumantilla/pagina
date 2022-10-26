@@ -1,0 +1,23 @@
+
+.boton{
+    background-color: black;
+    color: white;
+    width: 134px;
+    height: 112px;
+    position: absolute;
+    left:12%;
+    top:34%;
+}
+.boton_2{
+    background-color: black;
+    color: white;
+    width: 134px;
+    height: 112px;
+    position: absolute;
+    left:22%;
+    top:50%;
+}
+.body{
+    background-image: url("fondo_oy.png");
+    background-color: black;
+}
